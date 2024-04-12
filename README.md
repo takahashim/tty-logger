@@ -5,13 +5,13 @@
 # TTY::Logger
 
 [![Gem Version](https://badge.fury.io/rb/tty-logger.svg)][gem]
-[![Actions CI](https://github.com/piotrmurach/tty-logger/workflows/CI/badge.svg?branch=master)][gh_actions_ci]
+[![Actions CI](https://github.com/piotrmurach/tty-logger/actions/workflows/ci.yml/badge.svg)][gh_actions_ci]
 [![Build status](https://ci.appveyor.com/api/projects/status/vtrkdk0naknnxoog?svg=true)][appveyor]
 [![Code Climate](https://codeclimate.com/github/piotrmurach/tty-logger/badges/gpa.svg)][codeclimate]
 [![Coverage Status](https://coveralls.io/repos/github/piotrmurach/tty-logger/badge.svg)][coverage]
 
 [gem]: https://badge.fury.io/rb/tty-logger
-[gh_actions_ci]: https://github.com/piotrmurach/tty-logger/actions?query=workflow%3ACI
+[gh_actions_ci]: https://github.com/piotrmurach/tty-logger/actions/workflows/ci.yml
 [appveyor]: https://ci.appveyor.com/project/piotrmurach/tty-logger
 [codeclimate]: https://codeclimate.com/github/piotrmurach/tty-logger
 [coverage]: https://coveralls.io/github/piotrmurach/tty-logger
