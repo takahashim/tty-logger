@@ -1,5 +1,10 @@
 # Change log
 
+## Unreleased
+
+### Fixed
+* Fix to show the name of log type correctly in Ruby 3.4 ([#18](https://github.com/piotrmurach/tty-logger/pull/18))
+
 ## [v0.6.0] - 2020-12-05
 
 ### Added

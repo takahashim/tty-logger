@@ -261,7 +261,7 @@ module TTY
       end
       top_caller = caller_locations(1, 1)[0]
       loc = caller_locations(2, 1)[0] || top_caller
-      label = top_caller.label
+      label = top_caller.base_label
       metadata = {
         level: current_level,
         time: Time.now,
